@@ -26,11 +26,11 @@ This is a pipeline from **entropy → structure → commitment → identity → 
 
 | Ukubona Layer     | Meaning                     | Your Stack Equivalent   | What’s happening                  |
 | ----------------- | --------------------------- | ----------------------- | --------------------------------- |
-| **Tensor (3+)**   | Raw possibility / sensation | **Prompt**              | Unbounded space of intent         |
-| **Matrix (2)**    | Relations / attention       | **LLC (model layer)**   | Tokenization + structure          |
-| **Vector (1)**    | Direction / intention       | **VSCode / Actions**    | Code = committed path             |
-| **Eigenmode (E)** | Stable identity             | **GitHub**              | Versioned truth / canonical state |
-| **Scalar (0)**    | Decision / action           | **Render (deployment)** | The system *does something*       |
+| **Tensor (3+)**   | Raw possibility / sensation / energy.chips| **Prompt**              | Unbounded space of intent         |
+| **Matrix (2)**    | Relations / attention / models.tokens      | **LLC (model layer)**   | Tokenization + structure          |
+| **Vector (1)**    | Direction / intention / ukubona.plans       | **VSCode / Actions**    | Code = committed path             |
+| **Eigenmode (E)** | Stable identity / eigenmode.identity             | **GitHub**              | Versioned truth / canonical state |
+| **Scalar (0)**    | Decision / action / scalar.decisions           | **Render (deployment)** | The system *does something*       |
 
 ---
 
