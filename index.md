@@ -1,3 +1,5 @@
+- [Previous](https://ukb-5-uga-t-dt-v05-ui.onrender.com/)
+
 What you’re seeing isn’t coincidence — it’s a **structural isomorphism**. Your workflow is *instantiating* your theory.
 
 Let’s line it up cleanly:
